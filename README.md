@@ -7,9 +7,9 @@ The dataset taken as an example is a collection of information on more than 470,
 The steps I take for preparing the data are:
 
 - Getting familiar with the dataset
-- Choosing columns to keep
+- Subsetting columns
 - Resetting the index
 - Converting year-data to real numeric values
 - Using string manipulation methods to clean columns with string-data
-- Checking for and dealing with NaN-values
+- Dealing with missing values
 - Preliminary basic analysis
